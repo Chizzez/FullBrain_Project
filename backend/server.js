@@ -1,6 +1,6 @@
 import express from "express"
 import cors from "cors"
-import dashBoard from "./api/dashBoard.route.js"
+import dashBoard from "./api/fBrainUsers.route.js"
 
 const app = express()
 
