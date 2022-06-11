@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       This is a blank page at the moment. No shit!
+      Our unparallelled dashboard will displayed here.
     </div>
   );
 }
